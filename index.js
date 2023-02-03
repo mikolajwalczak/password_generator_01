@@ -2,6 +2,7 @@ const characters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O"
 "/"];
 let password1 = document.getElementById("password-1")
 let password2 = document.getElementById("password-2")
+let change = "I made a change"
 
 
 function generatePasswords() {
